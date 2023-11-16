@@ -1,0 +1,19 @@
+{
+  "name": "pnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "volta": {
+    "node": "20.9.0",
+    "pnpm": "8.10.5"
+  },
+  "dependencies": {
+    "sass": "^1.69.5"
+  }
+}
